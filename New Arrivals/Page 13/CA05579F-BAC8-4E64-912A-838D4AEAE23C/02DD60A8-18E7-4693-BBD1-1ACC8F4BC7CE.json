@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "02DD60A8-18E7-4693-BBD1-1ACC8F4BC7CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88026D5A-B9F9-468A-B84D-A0B7351B3F4C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4462F667-8FFC-474E-B704-DBB0677D5180",
+    "height": 24,
+    "width": 335,
+    "x": 20,
+    "y": 555
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Checkbox - group Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1EB07CE2-BA05-466E-B498-183CA6CA83BE",
+      "overrideName": "34E65F08-770B-4B26-A5C2-8221BF0315C5_symbolID",
+      "value": "5EFBC0F1-DD1D-4E5E-B3A7-0AEB074B960D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BEBDEDE-B841-4A2C-8BDD-25F743079028",
+      "overrideName": "14A1F133-AD36-4F37-B429-B2342DB84E8C_stringValue",
+      "value": "Habi Lifestyle"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29A94D91-D9C6-4956-9252-8C8F468B5299",
+      "overrideName": "B4CEFE74-DF95-4496-A010-0226294EA2D3_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8349F1E2-A7CC-4060-B0B2-A4F2F830E6E3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E892E7A1-FC3E-4909-BAB5-05A13A6798BD",
+  "verticalSpacing": 0
+}

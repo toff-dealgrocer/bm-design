@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "64CEE8FE-FCBD-48BD-9BF7-A754C0B9F545",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 57,
+    "width": 258,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "67B5D860-D2D4-431B-A0C3-6D021834CA7B"
+    },
+    {
+      "class": "text",
+      "id": "8CB92C4B-F11B-40EE-9751-47F61E25A356"
+    },
+    {
+      "class": "group",
+      "id": "8807CC7F-2D64-46DB-9916-C6DB394BCA1A"
+    }
+  ],
+  "name": "Taxon/Pill_product",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

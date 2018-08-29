@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E9C107A9-D7DC-4E2A-A655-A05864110C9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "05FEF9BA-41AB-4388-97B1-7C567B5CB89A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A95F18DE-7F93-4426-9229-62FCD3685A5A",
+    "height": 34,
+    "width": 220,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "New Arrivals / Brand Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB691558-166F-44FC-85CB-B0702733C8CE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B676C3DF-2487-4964-9F71-6E64BF9B68C5",
+  "verticalSpacing": 0
+}

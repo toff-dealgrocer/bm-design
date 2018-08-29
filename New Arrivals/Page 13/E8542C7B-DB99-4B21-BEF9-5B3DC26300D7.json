@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E8542C7B-DB99-4B21-BEF9-5B3DC26300D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85D22B45-12F8-43CE-8B88-6B718C4B155F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E39327EB-95F8-44F8-B1E6-05F339EE5840",
+    "height": 50,
+    "width": 131,
+    "x": 831,
+    "y": -376
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/primary Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CCAF8770-F6BE-4FCA-B75A-10757DA2ADA3",
+      "overrideName": "743EC2E9-6A3B-4364-92B5-228B8B00705F_stringValue",
+      "value": "SHOP NOW"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6976372-4886-450D-B850-E1F48D0BFD3F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B3E40A68-03BD-44FF-9C80-0F75B2ECE57D",
+  "verticalSpacing": 0
+}

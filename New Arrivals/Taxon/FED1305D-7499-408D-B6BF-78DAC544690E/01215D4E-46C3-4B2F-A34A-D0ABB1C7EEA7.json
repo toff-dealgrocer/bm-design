@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "01215D4E-46C3-4B2F-A34A-D0ABB1C7EEA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7992F14B-EB7D-4151-B60A-CC107C9FA967",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE08F6ED-56DB-4C7C-9C34-E0636658696E",
+    "height": 57,
+    "width": 258,
+    "x": 442,
+    "y": 121
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Taxon/Pill",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6D2F920-ED19-45DF-BD30-022D1ED6AF25",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "671F0F53-F1A7-4031-924F-5D7BDCE9CF89",
+  "verticalSpacing": 0
+}

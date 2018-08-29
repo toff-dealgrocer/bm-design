@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "FCE61111-B536-496C-A6B9-34D41CE788F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 550,
+    "x": 1,
+    "y": 136
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4226C3A4-57D5-4EA5-A45E-29AD69CBB600"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3EC4B105-A53A-403E-9325-2384466D5979"
+    },
+    {
+      "class": "bitmap",
+      "id": "258979A7-ACA5-445F-B4EA-B51749EB00F1"
+    }
+  ],
+  "name": "Accordion-tab",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

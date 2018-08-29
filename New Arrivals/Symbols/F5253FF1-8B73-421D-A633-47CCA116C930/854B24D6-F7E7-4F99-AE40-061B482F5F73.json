@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "854B24D6-F7E7-4F99-AE40-061B482F5F73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B97E43A-8C4F-4499-9540-551AF4146CC5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "755004E9-B0DD-40F4-A3C3-DF98D58BB421",
+    "height": 75,
+    "width": 97,
+    "x": 123,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sale badge Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "257C9CC5-DD6F-4AFD-9634-3ADB1054C03C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7131A42A-14A2-4F23-83CE-6157C1C527D8",
+  "verticalSpacing": 0
+}

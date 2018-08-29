@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6816144F-655F-47B3-9766-18BBF84D918A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E5AB124-F36E-4BF5-9FA3-B3C9597C7064",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "72229B01-B074-4F99-BF08-D2889F489137",
+    "height": 18,
+    "width": 143,
+    "x": 57,
+    "y": 253
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Checkbox - group Copy 25",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F3019B6-FBAF-4DBC-9EF8-180D550443EC",
+      "overrideName": "0B63DA98-7237-4442-AF49-72EE1A9FA309_symbolID",
+      "value": "5EFBC0F1-DD1D-4E5E-B3A7-0AEB074B960D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "177653BD-515B-4F3A-A774-48480BE53C9C",
+      "overrideName": "2E098692-34EA-4B48-9678-8E7A34B88E60_stringValue",
+      "value": "Ancient Nutrition"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4CFE057A-B692-4A15-B41B-890C2DA9C866",
+      "overrideName": "09BF79B0-93E7-442A-84A7-E8F785FD6DC8_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9235936C-1B84-40FB-9A76-BC70AA0E1068",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "833DFE91-6B81-4A7E-A4C4-FA7BD6C0F9B4",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "183BA522-83E0-4F9E-950D-4BDBB6750691",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06EBB674-871B-490A-9ACC-1A50FF2A713B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "168C3C0A-D61E-434F-9AFE-7D0DC3911D70",
+    "height": 24,
+    "width": 335,
+    "x": 20,
+    "y": 439
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Checkbox - group Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1EB07CE2-BA05-466E-B498-183CA6CA83BE",
+      "overrideName": "34E65F08-770B-4B26-A5C2-8221BF0315C5_symbolID",
+      "value": "5EFBC0F1-DD1D-4E5E-B3A7-0AEB074B960D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "576B22E9-19BB-427F-8C81-0563EB867A52",
+      "overrideName": "14A1F133-AD36-4F37-B429-B2342DB84E8C_stringValue",
+      "value": "Enzymedica"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "828BC636-8126-4175-AC03-F5C2D4C33CCC",
+      "overrideName": "B4CEFE74-DF95-4496-A010-0226294EA2D3_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65DE9F7F-5EF6-48E2-90A0-DB54F50173C9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E892E7A1-FC3E-4909-BAB5-05A13A6798BD",
+  "verticalSpacing": 0
+}

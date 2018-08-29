@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "7C5FE375-5876-4EE7-858F-A663650B6061",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84D6F091-6274-4D54-8C90-224D233BF9AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F23319A-9F61-4DE7-B692-D56032B50ED4",
+    "height": 204,
+    "width": 120,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "77156746-FF8C-46A4-AA0F-8B2470192AAD"
+    },
+    {
+      "class": "group",
+      "id": "DF4097F9-D9EC-4AB9-9FA7-1BCD234CA532"
+    }
+  ],
+  "name": "Card/product/media",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85413CC6-9594-498D-9FD2-13693FCA93D9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "81E04A6F-EC10-4987-A791-1CC0CC8B922F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EA36FF5-99FA-4DA8-9112-B31FC14AA050",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65E0A16B-B1A7-4536-A57E-92DBFC2E2B77",
+    "height": 203,
+    "width": 120,
+    "x": 300,
+    "y": 604
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/product/media Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "941A0A46-49FD-4698-B588-F0B1B2D6A4E0",
+      "overrideName": "099C69BB-23BC-40BD-B76F-B1BBF6452F33_stringValue",
+      "value": "THE SUPERFOOD GROCER"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5400CBC-5ECC-4EA6-BA0A-F8B9032ED1A9",
+      "overrideName": "C068013E-6204-4876-B176-C0F0807FD357_stringValue",
+      "value": "Chia Seeds 1/2 lb. (227g)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56008FC1-7994-4C17-A43A-E0E4392CCFAB",
+      "overrideName": "77156746-FF8C-46A4-AA0F-8B2470192AAD_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cc61a538605a8401ea55154a3394fa0f26df4049.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "822405B1-EE88-438B-8CCF-4C4DA36D3A0A",
+      "overrideName": "DF872575-A146-48A4-95F0-5B1D5B2E03C1_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "076E72C8-B07D-4917-BBA4-C91A1FA851CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "51D2F105-49A4-45E4-9687-C76828E125B1",
+  "verticalSpacing": 0
+}

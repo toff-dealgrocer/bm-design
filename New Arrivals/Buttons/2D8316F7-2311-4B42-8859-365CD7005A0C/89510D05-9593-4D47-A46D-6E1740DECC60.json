@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "89510D05-9593-4D47-A46D-6E1740DECC60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D405634-5EB7-42A0-BB42-62E04F931A2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87878C7B-BD2C-43EB-B48D-03A76BD13409",
+    "height": 37,
+    "width": 80,
+    "x": 250,
+    "y": 469
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/social",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2931152B-24C6-4BEF-B8C7-0E5FE09F028D",
+      "overrideName": "FEE9AD71-A3FB-4C67-B065-907CD2B477D2_stringValue",
+      "value": "Pin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D91D5AF8-1B5A-4CA7-8685-8BCAC0228503",
+      "overrideName": "7DD0FF3E-8F8C-4A36-98D2-76510CFF20B3_symbolID",
+      "value": "166857E5-E41E-490D-A6FF-8785F8D76B39"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C472369E-6C31-40C0-B1D7-4D5EB24F7E14",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7A8D2E52-049B-4D57-9AA8-5E640D109522",
+  "verticalSpacing": 0
+}

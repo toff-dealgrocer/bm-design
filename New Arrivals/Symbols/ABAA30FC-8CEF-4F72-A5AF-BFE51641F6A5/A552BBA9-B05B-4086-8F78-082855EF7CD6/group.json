@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "A552BBA9-B05B-4086-8F78-082855EF7CD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "58B4737E-1EC8-4A1D-AA65-89564DD52A82"
+    },
+    {
+      "class": "group",
+      "id": "E2FF35FB-FB38-41A9-A2F7-A37602991069"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20500946-97DB-40B9-B97A-E589797BEB83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7501600F-1B5E-4138-9989-01D84327EB33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8B904BA-6C54-4787-9622-363EA2911568"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E395DA7-A659-41BB-8CF6-202B08884040"
+    }
+  ],
+  "name": "Mobile header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

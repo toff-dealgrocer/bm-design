@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "31CCF33D-3EF5-486A-B8B2-947DEA98709E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7833C6B-2FBB-4C0F-86C1-ECC227120104",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E554EE6F-591A-463C-9600-012820189180",
+    "height": 274,
+    "width": 172,
+    "x": 42,
+    "y": 624
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/product",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "688F82C6-4DCA-4384-975A-88A09C2CE340",
+      "overrideName": "F4895D44-7879-4941-A5EE-666D95DAA38A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cd653bcd4efe8306ef16dc4771d92cd592e82e7d.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "438B37D2-0678-4649-9F31-FF5BA11FBF57",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7E17E5A3-6AAD-4BA2-B4C6-F3077DE05504",
+  "verticalSpacing": 0
+}

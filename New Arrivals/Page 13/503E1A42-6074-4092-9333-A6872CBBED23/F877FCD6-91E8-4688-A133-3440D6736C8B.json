@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F877FCD6-91E8-4688-A133-3440D6736C8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3813D16E-3816-48B2-82F2-B0C556FAE4FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3E97213-3831-4ED7-B7F3-09B60ABD0D0C",
+    "height": 67,
+    "width": 1024,
+    "x": 0,
+    "y": 54
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BMNL_nav",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F694685F-9A46-47E2-802F-50DAFC79FB83",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ED6AD1CE-55E1-4B71-96E9-1225749A5874",
+  "verticalSpacing": 0
+}

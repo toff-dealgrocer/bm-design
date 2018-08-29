@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "071BA914-3594-4A46-ABD8-A9BD75AFC669",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "351927D4-6DF9-44D7-B5E8-46F3F194AEA3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F32FA0B1-D775-4336-A825-5FCFDFE76110",
+    "height": 24,
+    "width": 17,
+    "x": 8,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7826B0EC-07D6-49C7-8B88-991D75FA7DCE"
+    }
+  ],
+  "name": "icon-chemical-free",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3259A6C4-BE5B-47D7-9D86-87A45ED1F742",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

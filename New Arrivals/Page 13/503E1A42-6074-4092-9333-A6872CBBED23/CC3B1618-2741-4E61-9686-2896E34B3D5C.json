@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CC3B1618-2741-4E61-9686-2896E34B3D5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8381A5A5-5A99-4AD4-B6DB-78578A041DB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39889135-06EE-4965-AB2D-0DC2A6538183",
+    "height": 40,
+    "width": 123,
+    "x": 348,
+    "y": 344
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7652D5A-25DD-4A94-B542-E3E27E68AC84",
+      "overrideName": "AFE8E302-202F-4DE3-80F0-56A8E4FEDD40_stringValue",
+      "value": "Wellness"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D9CEE69-7EE2-42AB-8FA5-624971B5F8E6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "07D2FD82-E924-436E-A777-71FF5EB5A1A7",
+  "verticalSpacing": 0
+}

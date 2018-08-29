@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "188F6D94-8B2A-4608-A801-85847311DC7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26131E63-F89A-41C3-88D4-C6E9AF951874",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBB8FA59-BF9D-40FD-BEBB-76FC0DE452E1",
+    "height": 18,
+    "width": 143,
+    "x": 57,
+    "y": 541
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Checkbox - group Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B195C21-AEF5-46BB-A17B-4C27695DA2DF",
+      "overrideName": "0B63DA98-7237-4442-AF49-72EE1A9FA309_symbolID",
+      "value": "5EFBC0F1-DD1D-4E5E-B3A7-0AEB074B960D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "274AC58D-0CAE-4F96-96E4-B0D24FF26D83",
+      "overrideName": "2E098692-34EA-4B48-9678-8E7A34B88E60_stringValue",
+      "value": "Artisana"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50E18E14-8D9E-446F-8D3F-5B3D9371EEA1",
+      "overrideName": "09BF79B0-93E7-442A-84A7-E8F785FD6DC8_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE9501B9-33CC-4B8F-92BA-BF582D1D6F7E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "833DFE91-6B81-4A7E-A4C4-FA7BD6C0F9B4",
+  "verticalSpacing": 0
+}

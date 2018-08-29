@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D2FB23B6-1AA1-43F2-AF52-6DC569EE2F46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1E7153A-748A-4E67-B704-475D12B27475",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6F68E23-57FF-4ABC-A152-9CE3ADAFE116",
+    "height": 75,
+    "width": 97,
+    "x": 75,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "New badge",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7933918-1D16-4898-96BD-A454D6B17E3B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7131A42A-14A2-4F23-83CE-6157C1C527D8",
+  "verticalSpacing": 0
+}

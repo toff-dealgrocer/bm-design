@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C020402D-2AD0-4871-ACA2-D27D621382DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4408F947-A6C6-43C1-9C7D-02C2905BE515",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE0BEC85-E992-4942-A14B-6AF19980C68C",
+    "height": 50,
+    "width": 50,
+    "x": 957,
+    "y": 637
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/carousel right Copy 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3E3E4C6-17EA-4D2E-8C74-54DBFE8A4B5F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "78D7CB7C-3F0D-44E0-8F70-6C6DF3DBC47E",
+  "verticalSpacing": 0
+}

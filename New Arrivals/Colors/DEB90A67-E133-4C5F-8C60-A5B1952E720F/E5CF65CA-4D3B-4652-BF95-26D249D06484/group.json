@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "E5CF65CA-4D3B-4652-BF95-26D249D06484",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 225,
+    "width": 225,
+    "x": 480,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7F7DBE2D-8E0E-4800-A9AB-EB37633D20D7"
+    },
+    {
+      "class": "text",
+      "id": "C4C037D9-8F9F-4F82-9049-8AD3045288D4"
+    }
+  ],
+  "name": "Color - pink",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

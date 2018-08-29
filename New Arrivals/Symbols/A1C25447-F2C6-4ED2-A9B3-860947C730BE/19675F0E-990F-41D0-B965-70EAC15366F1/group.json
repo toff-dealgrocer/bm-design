@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "19675F0E-990F-41D0-B965-70EAC15366F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 335,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "805CF275-81CE-4EF7-8227-CE53A321D486"
+    },
+    {
+      "class": "text",
+      "id": "11D7C763-E620-4E0B-8D8E-CA0964F492DA"
+    },
+    {
+      "class": "text",
+      "id": "43F26B39-0CCE-4239-B321-D68831E23C3E"
+    }
+  ],
+  "name": "Card/article/media",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

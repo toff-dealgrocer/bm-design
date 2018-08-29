@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5BF13279-26A4-46AE-9A5D-71E3B24F9F51",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 358,
+  "do_objectID": "DCA89FDA-164B-40CF-B391-31876C2034E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D588929B-5431-4A77-8EFD-E03794C3BD2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFAB4BD3-936F-4ED6-AA7E-01C62CD870D8",
+    "height": 34,
+    "width": 150,
+    "x": 14741,
+    "y": 1940
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "114DAE5D-979F-422F-9531-ABCD7B623C90",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "20D13619-3706-4FBB-8794-A06B9B8A81FF"
+    }
+  ],
+  "name": "New Arrivals / Brand Mobile Name",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13E19CC8-9C54-4E7A-9085-A2F9DEC4F970",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "95FE18E0-F333-4B01-9E86-1FEDCC22A9E7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "71923DA3-AD5E-4569-AB69-4C1B35477945",
+    "guides": [
+    ]
+  }
+}

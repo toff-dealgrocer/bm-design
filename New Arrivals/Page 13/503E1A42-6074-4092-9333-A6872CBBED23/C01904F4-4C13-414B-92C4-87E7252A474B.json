@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C01904F4-4C13-414B-92C4-87E7252A474B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B57EDEC-CFBD-461D-9159-966835A9BB7A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6752D9D6-0067-4193-B9F6-37CDDF7E8F16",
+    "height": 18,
+    "width": 143,
+    "x": 57,
+    "y": 827
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Checkbox - group Copy 16",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F0CAD3A7-7019-4F16-BBE9-7B24410DD20B",
+      "overrideName": "0B63DA98-7237-4442-AF49-72EE1A9FA309_symbolID",
+      "value": "5EFBC0F1-DD1D-4E5E-B3A7-0AEB074B960D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A886121E-18F3-4003-8299-FA6668A96ED6",
+      "overrideName": "2E098692-34EA-4B48-9678-8E7A34B88E60_stringValue",
+      "value": "Personal Care"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41C61F95-0D50-4581-957F-C94F355EE2A0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "833DFE91-6B81-4A7E-A4C4-FA7BD6C0F9B4",
+  "verticalSpacing": 0
+}

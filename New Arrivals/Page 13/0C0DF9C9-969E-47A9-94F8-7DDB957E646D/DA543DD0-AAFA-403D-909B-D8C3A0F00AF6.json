@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DA543DD0-AAFA-403D-909B-D8C3A0F00AF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "105DEFC1-0681-4A7E-90D5-11A69007D9B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22F7D0D6-97B6-4261-98EA-F65B2721D208",
+    "height": 203,
+    "width": 120,
+    "x": 20,
+    "y": 604
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/product/media Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E3E13F2-CBDC-4AA9-9727-9B617331BF53",
+      "overrideName": "099C69BB-23BC-40BD-B76F-B1BBF6452F33_stringValue",
+      "value": "THE GREEN TUMMY"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C354E1D1-C6C0-438E-8D24-386C87FCFE27",
+      "overrideName": "C068013E-6204-4876-B176-C0F0807FD357_stringValue",
+      "value": "Chia Seeds    (140g)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20194A06-1912-4FB4-8722-BE01E10BED3E",
+      "overrideName": "77156746-FF8C-46A4-AA0F-8B2470192AAD_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04bdcc2dd7d6e255a272173dcbb402cc4a5a2d19.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A64C7FF5-BBB2-423E-8136-BEF0E736A573",
+      "overrideName": "DF872575-A146-48A4-95F0-5B1D5B2E03C1_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E89A0EB-253D-4E93-8D33-8640DF1F970C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "51D2F105-49A4-45E4-9687-C76828E125B1",
+  "verticalSpacing": 0
+}

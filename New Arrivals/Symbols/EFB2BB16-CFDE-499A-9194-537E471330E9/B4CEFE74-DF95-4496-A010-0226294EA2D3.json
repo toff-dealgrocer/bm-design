@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B4CEFE74-DF95-4496-A010-0226294EA2D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A53356F4-9B7A-4349-8D10-0BFEE04C8D7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C191EE24-834E-49FE-B375-B0A884F28915",
+    "height": 6,
+    "width": 11,
+    "x": 124,
+    "y": 9
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Assets/Icons/angle-down",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1A7B45A-55DE-4B98-9DF1-70B09A484F11",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0E0234FC-D535-438D-AA83-606801004692",
+  "verticalSpacing": 0
+}

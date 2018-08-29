@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7B4116FF-3EA6-4623-9E5B-96CB26F383D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1A3AEEF-A787-438E-B294-1BA8D3C3C83D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0EB5E812-6D53-4633-8AF0-0D23E56E5F54",
+    "height": 40,
+    "width": 106,
+    "x": 369,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51ED5F29-47CD-4E83-A334-61CC1D0D5405",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D582F851-1312-4B75-9FE3-DB90A60BFB9F",
+  "verticalSpacing": 0
+}

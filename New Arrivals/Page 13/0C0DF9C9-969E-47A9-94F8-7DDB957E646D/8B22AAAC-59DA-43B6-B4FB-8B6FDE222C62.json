@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8B22AAAC-59DA-43B6-B4FB-8B6FDE222C62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F63265C5-01F5-4163-B1F9-FA984A33037C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B261BBC-3162-4E61-B0B3-363B2AA23AF9",
+    "height": 252,
+    "width": 158,
+    "x": 198,
+    "y": 1231
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/product Copy 11",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "789C1F1B-C1BB-45C0-9E72-DC9EDEEA6B97",
+      "overrideName": "408330D4-C705-4C8C-9D1B-78CA7CB731EF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E7485B0-707B-4B16-A4A3-647414F1CF6F",
+      "overrideName": "FB22BBAA-542D-4E20-90C9-5E6DBA66C0A9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cd653bcd4efe8306ef16dc4771d92cd592e82e7d.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BEA3470-927F-4982-B98B-6560A678EEC2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "35971070-4D4E-4CFF-90BB-CEB920E13AAB",
+  "verticalSpacing": 0
+}

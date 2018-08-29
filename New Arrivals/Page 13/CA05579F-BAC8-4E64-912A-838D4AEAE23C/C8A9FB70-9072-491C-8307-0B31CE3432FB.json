@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C8A9FB70-9072-491C-8307-0B31CE3432FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0307E3A5-031D-49F9-B049-31C50782745C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "8CF77DB0-6652-44EC-AC06-F159065EDEFC"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D9AE9839-9C38-49AC-88F2-8A4372AF1568",
+    "height": 15,
+    "width": 15,
+    "x": 340,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/Close",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62FED6AB-B8E8-40A4-8230-59B9F650E0EE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DC3AA3FC-5009-4573-B723-C32FACE8038B",
+  "verticalSpacing": 0
+}

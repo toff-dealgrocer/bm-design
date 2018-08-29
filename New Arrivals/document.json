@@ -1,0 +1,108 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2274509804,
+        "green": 0.1019607843,
+        "red": 0.09019607843
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6079225540161133,
+        "green": 0.6078033447265625,
+        "red": 0.6078922152519226
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.803921568627451,
+        "green": 0.8156862745098039,
+        "red": 0.9803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9411764705882353,
+        "green": 0.9450980392156862,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1372549019607843,
+        "green": 0.09019607843137252,
+        "red": 0.9254901960784314
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3019607843137255,
+        "green": 0.4784313725490196,
+        "red": 0.596078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5137254901960785,
+        "green": 0.392156862745098,
+        "red": 0.9137254901960784
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.392156862745098,
+        "green": 0.6862745098039216,
+        "red": 0.2156862745098039
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "744C041E-73D3-4299-BE15-37ABA7B929D4",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "50.2",
+    "build": 55047,
+    "version": 103
+  },
+  "pages": [
+    "Page 13",
+    "Page 14",
+    "Layout",
+    "Tabs",
+    "Modals",
+    "Forms",
+    "Buttons",
+    "Carousels",
+    "Alerts",
+    "Colors",
+    "Cards",
+    "Taxon",
+    "Badges",
+    "_Icons",
+    "Symbols"
+  ]
+}

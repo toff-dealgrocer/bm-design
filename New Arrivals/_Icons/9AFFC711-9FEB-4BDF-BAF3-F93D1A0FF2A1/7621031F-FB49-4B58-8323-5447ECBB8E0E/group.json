@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "7621031F-FB49-4B58-8323-5447ECBB8E0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66C74826-16B3-4C5F-B238-52E344DDA718",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82969117-69A1-40AB-A8F4-0E8F6A2A2F9E",
+    "height": 24,
+    "width": 27,
+    "x": 4,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "26D66F77-8912-4B8C-85C2-5B47588B0CB2"
+    }
+  ],
+  "name": "icon-baby-safe",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "418E0007-CF13-4CD6-9BB5-8DEA6588F17B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FEC4B73E-C3A4-4EB2-B8ED-7ADE9E907A58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F92B82EF-A186-42F6-AE17-B3567D64F3CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53C557D8-7CD4-4134-8DB6-05B2E677EA7F",
+    "height": 108,
+    "width": 220,
+    "x": 1459,
+    "y": -439
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Taxon/main Copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79924F2F-9F06-4A23-A2BD-EAC9A0910F25",
+      "overrideName": "461961B4-4963-49F4-AA11-66A433E06625_stringValue",
+      "value": "Vital Proteins"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D8367E5-28C3-417F-8E4C-F7F8A532CDCD",
+      "overrideName": "E9C107A9-D7DC-4E2A-A655-A05864110C9F_symbolID",
+      "value": "D519DDC4-6472-4D61-B39C-DADE38DA123E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E7D6977-FA9F-4D0C-A846-24FA6C86D60E",
+      "overrideName": "E9C107A9-D7DC-4E2A-A655-A05864110C9F/3BEDEBD3-B45E-4EB2-B938-CEC418710CFA_stringValue",
+      "value": "Vital Proteins"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7FD1EE0-8156-4EBA-853E-82A6ABE4386A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A8C770F1-5FDC-49B9-9881-4B67021EC11E",
+  "verticalSpacing": 0
+}

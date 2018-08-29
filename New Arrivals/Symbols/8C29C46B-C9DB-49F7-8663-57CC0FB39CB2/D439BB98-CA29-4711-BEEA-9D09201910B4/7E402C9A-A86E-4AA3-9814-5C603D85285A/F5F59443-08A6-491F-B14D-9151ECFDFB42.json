@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F5F59443-08A6-491F-B14D-9151ECFDFB42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ECEEB0BD-621D-4C98-9E15-BF08939298C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BECECD1-F186-4916-9785-190D5BB9C24B",
+    "height": 15,
+    "width": 85,
+    "x": 0,
+    "y": 77
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Misc/Product/Stars",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37B9022E-5A60-4EC2-9A8B-143671FFCA59",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7D64106B-D434-458E-A316-0E2A4ED8716B",
+  "verticalSpacing": 0
+}

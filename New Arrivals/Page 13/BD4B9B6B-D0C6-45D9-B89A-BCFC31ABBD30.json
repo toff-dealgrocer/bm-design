@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BD4B9B6B-D0C6-45D9-B89A-BCFC31ABBD30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1974AED-8C75-4309-B06C-C68ECC2ECC45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "099E33AF-CAA9-407A-9560-87F1D677D53A",
+    "height": 40,
+    "width": 125,
+    "x": 898,
+    "y": 2622
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "13D37564-7BE0-4EF5-9C4B-7F5EB6CC985E",
+      "overrideName": "9D2F26CA-6A91-45F2-BC7D-A2BAFF879987_stringValue",
+      "value": "Beauty"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CBE2CD1-CA60-4791-A24A-7CF70DDA081E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D582F851-1312-4B75-9FE3-DB90A60BFB9F",
+  "verticalSpacing": 0
+}

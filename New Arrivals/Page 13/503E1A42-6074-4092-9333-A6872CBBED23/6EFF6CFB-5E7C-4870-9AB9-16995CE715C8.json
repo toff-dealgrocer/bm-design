@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6EFF6CFB-5E7C-4870-9AB9-16995CE715C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44308374-687C-49B3-BB62-24EEF8894C87",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "895E3839-B1ED-4A74-AECB-CC9F28340456",
+    "height": 18,
+    "width": 143,
+    "x": 57,
+    "y": 976
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Checkbox - group Copy 13",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B195C21-AEF5-46BB-A17B-4C27695DA2DF",
+      "overrideName": "0B63DA98-7237-4442-AF49-72EE1A9FA309_symbolID",
+      "value": "5EFBC0F1-DD1D-4E5E-B3A7-0AEB074B960D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "274AC58D-0CAE-4F96-96E4-B0D24FF26D83",
+      "overrideName": "2E098692-34EA-4B48-9678-8E7A34B88E60_stringValue",
+      "value": "P500 - P1,500"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "22393E55-86CC-4CC5-8F4D-5F4495C830BB",
+      "overrideName": "09BF79B0-93E7-442A-84A7-E8F785FD6DC8_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1BEBAD6B-336D-4B42-9F2B-4C71FBE68CFA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "833DFE91-6B81-4A7E-A4C4-FA7BD6C0F9B4",
+  "verticalSpacing": 0
+}

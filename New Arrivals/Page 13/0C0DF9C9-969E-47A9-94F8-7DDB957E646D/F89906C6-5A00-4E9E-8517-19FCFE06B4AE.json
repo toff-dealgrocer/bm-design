@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F89906C6-5A00-4E9E-8517-19FCFE06B4AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98326B8F-60B1-418A-8EBB-E2D7F63DEDE6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "192BF5CA-59E9-4E33-A755-B87A1D444F72",
+    "height": 167,
+    "width": 120,
+    "x": 160,
+    "y": 350
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Taxon Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B10D43C1-BFDA-4646-965E-B5D03127DA06",
+      "overrideName": "415A05B1-A016-4737-A248-4C5F3F373B2A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/19c966ab8092c6697a4eb988374dd1f698306258.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A00618D8-CB72-4873-885C-A84674A8C043",
+      "overrideName": "CA60DC07-D889-4AAC-A8A0-43F83A02ECB1_stringValue",
+      "value": "Salts & Spices"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5ADADE05-70E6-431C-B62F-D84D3D053FB0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C214E375-B407-411E-AD25-783E20EB6E1A",
+  "verticalSpacing": 0
+}

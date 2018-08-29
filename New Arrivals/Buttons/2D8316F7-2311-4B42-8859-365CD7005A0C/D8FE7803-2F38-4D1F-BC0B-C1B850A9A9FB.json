@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D8FE7803-2F38-4D1F-BC0B-C1B850A9A9FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D699E07-C88E-43CF-AD5B-4B2410EA9DC8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D69D32AC-3036-41CA-9006-A9D837214E22",
+    "height": 37,
+    "width": 97,
+    "x": 55,
+    "y": 469
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/social",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "292D9DDA-F2F6-47AF-B0AB-BEEDAC6CEA34",
+      "overrideName": "7DD0FF3E-8F8C-4A36-98D2-76510CFF20B3_symbolID",
+      "value": "EBF537C0-C29E-4B3A-BEC5-FE3A5276543D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41CC5790-EB8D-4FCF-8B05-53AB67DAC473",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7A8D2E52-049B-4D57-9AA8-5E640D109522",
+  "verticalSpacing": 0
+}

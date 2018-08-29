@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6716C37E-BBFB-40CA-B884-D0F796A86A73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A0BF6127-8E5D-4142-9CC8-1D8443873AB1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F32F83EA-EFF7-4512-94EB-FCBA483E7238",
+    "height": 108,
+    "width": 220,
+    "x": 3308,
+    "y": -290
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Taxon/main Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CA2B026-FCF3-4944-97DC-F63425F4AD6E",
+      "overrideName": "CDDA3857-3431-4E1D-882C-2AC578344829_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8d210860b18bb96285701053c99e83854123374b.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40F191E1-1D4B-42DD-A16D-D8E9F207BB43",
+      "overrideName": "DDF4AA8A-C084-4BCE-BC94-4001B281FEFE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7face0c27201f1c079d489800a67071496ebaf93.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A59612B-5162-4D63-BCE4-D5EA2E28F50A",
+      "overrideName": "9BA0D40E-3455-46C1-82B1-628CFB4C84D7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/25a6a34b8e3e5bb8c53d74f88f607b8183b1702f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FF0A035-4C71-44ED-9ADF-D96A4BD5C023",
+      "overrideName": "461961B4-4963-49F4-AA11-66A433E06625_stringValue",
+      "value": "The Coffee Bean & Tea Leaf"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3451E797-F201-48C0-90E7-4EB4F30579C8",
+      "overrideName": "E9C107A9-D7DC-4E2A-A655-A05864110C9F/7A413389-2F18-4EDB-B7A6-2009C41C7C37_stringValue",
+      "value": "The Coffee Bean & Tea Leaf"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0551A7F-7DCA-43E2-8822-95BD931F28E8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A8C770F1-5FDC-49B9-9881-4B67021EC11E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2D08E8F1-4628-4ED9-B6FA-652822634B50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 168,
+    "x": 15,
+    "y": 5
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "radio-selected",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7844983D-2BB2-4FD9-9957-806995EF0C10_symbolID",
+      "value": "1932E647-6F80-40C0-8692-C5EAE9057F60"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3069E54-4269-4326-AF3F-E331CF7B3B9D_stringValue",
+      "value": "Bank Deposit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "53D8284C-92C4-4163-BE88-C9750A3209FF",
+  "verticalSpacing": 0
+}

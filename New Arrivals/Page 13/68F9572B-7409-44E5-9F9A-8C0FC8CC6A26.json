@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "68F9572B-7409-44E5-9F9A-8C0FC8CC6A26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C6AB6F9-29D8-495C-A2F1-071BBDDA9105",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBA59AFA-DDAF-4653-94E6-05F82F32C6D4",
+    "height": 90,
+    "width": 149,
+    "x": 226,
+    "y": 2280
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Taxon/main Copy 8",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FF0A035-4C71-44ED-9ADF-D96A4BD5C023",
+      "overrideName": "461961B4-4963-49F4-AA11-66A433E06625_stringValue",
+      "value": "The Coffee Bean & Tea Leaf"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "803CB3BD-95EA-4C38-A012-BC2F814B5A81",
+      "overrideName": "B00E45EE-76AE-4AF6-A105-539EE40EDA89/7A413389-2F18-4EDB-B7A6-2009C41C7C37_stringValue",
+      "value": "The Coffee Bean & Tea Leaf"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68198C52-A1E2-4D01-9276-2A70EBE0F8A4",
+      "overrideName": "02293753-076F-4E89-9446-6DFC98079285_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8d210860b18bb96285701053c99e83854123374b.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1278B2EF-49A7-4899-B84E-6A3E90F6235B",
+      "overrideName": "C997CC86-80CF-4753-94C3-74064B9D4C79_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/25a6a34b8e3e5bb8c53d74f88f607b8183b1702f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F937A33-9BD9-4F5F-B8B0-BF699C8A5CD5",
+      "overrideName": "AD9F6821-79F3-4738-8BC1-E2A5CE692C95_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7face0c27201f1c079d489800a67071496ebaf93.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8997C2C-703D-4FD6-ADC7-9CAB534837D9",
+      "overrideName": "B00E45EE-76AE-4AF6-A105-539EE40EDA89/20D13619-3706-4FBB-8794-A06B9B8A81FF_stringValue",
+      "value": "The Coffee Bean..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6BD50AB6-106F-40CE-891B-2A66F23FAB5E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "067A1BAC-2FF2-424C-859E-D92D6F967269",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "408330D4-C705-4C8C-9D1B-78CA7CB731EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61EE53A5-0FD4-4F9B-8B4A-8BA755B49A86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "37B682BE-E03B-4AA4-8D86-9BD94378A5DC",
+    "height": 75,
+    "width": 97,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sale badge",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3707F4A-4F88-475C-98FB-B5A2A6AA2C0E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7443361F-7184-440E-9FB9-F5790D099FC4",
+  "verticalSpacing": 0
+}

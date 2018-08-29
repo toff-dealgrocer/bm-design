@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "A1BBBF5D-814A-4E90-A8EE-FEF64E984C4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86CA4459-114B-43E8-91F7-882986DFAA49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9D0AF1D-892E-4F64-946A-C4743F33379E",
+    "height": 250,
+    "width": 158,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "19097A6B-C819-4799-A83F-73E68D18859F"
+    },
+    {
+      "class": "bitmap",
+      "id": "FB22BBAA-542D-4E20-90C9-5E6DBA66C0A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F16A4F63-D538-4AB0-BC4F-DA63DB8AB008"
+    }
+  ],
+  "name": "Card/product",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5EFA4D51-880D-4729-B37B-CD5854F32475",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

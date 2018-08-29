@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "A402CF27-E25C-4495-8609-ED060ADD1ED5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75B23322-CAC3-44DC-8143-ADE3F1ED8213",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F9C7434-7414-4A45-ABEC-6A25C48E4099",
+    "height": 31,
+    "width": 27,
+    "x": 0,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D0170E9C-924B-4EA8-95B8-5430EBA3AEE4"
+    }
+  ],
+  "name": "icon-gluten-free",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90E22FCE-EF5A-4F1F-89E1-5E3A389BC02A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

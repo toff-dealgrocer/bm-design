@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9CC75D59-D943-48B5-8C10-298A71AD5823",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2106,
+  "do_objectID": "9DF5EC92-F7E4-4CB6-805E-42C39DCD86BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81F4DE1B-EACC-475E-814A-5EE01740E515",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F56196AE-6C30-47A7-82BF-387A2202B968",
+    "height": 75,
+    "width": 97,
+    "x": 15455,
+    "y": 1136
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F04904E0-5480-4594-83D3-1618AC7DBA39",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "01C4052E-42DE-4D32-9E5D-AE26B817BECF"
+    },
+    {
+      "class": "text",
+      "id": "CFF717EE-2953-4D15-A390-01E665730DAF"
+    }
+  ],
+  "name": "Misc/Product/New Tag Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9D9F4A4-556F-4E52-8A91-7E683313D0D2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7131A42A-14A2-4F23-83CE-6157C1C527D8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7AF5BCFD-77A2-4DDC-96AF-A26E9BB9DAAB",
+    "guides": [
+    ]
+  }
+}

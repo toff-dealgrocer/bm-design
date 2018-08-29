@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "4D1849C8-108E-44E4-A5E9-1B4CE5E30100",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 66,
+    "x": 18,
+    "y": 18
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "29B422CA-252A-4355-AEE1-CB4B8957B9C1"
+    },
+    {
+      "class": "text",
+      "id": "1A2ABB4F-E6CB-43A6-9914-6C90286D7582"
+    }
+  ],
+  "name": "Carousel-item",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

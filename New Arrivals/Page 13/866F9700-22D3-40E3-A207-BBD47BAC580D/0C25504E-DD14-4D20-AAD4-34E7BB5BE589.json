@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0C25504E-DD14-4D20-AAD4-34E7BB5BE589",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C45E9102-7323-44E8-BED0-BA1FB9440806",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "024C60D5-1611-485C-B405-064AE43601E2",
+    "height": 22,
+    "width": 44,
+    "x": 57,
+    "y": 617
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/slim/secondary Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B780BAD9-0FA2-4FA5-8DF2-1D8DBA73C0E9",
+      "overrideName": "DE1F6EDE-C8D7-4E8D-B330-66C71CE48DF5_stringValue",
+      "value": "Filter"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3C110F6-A1B1-44EC-9786-B8136E745F12",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5B7C4632-B9ED-40C4-B29F-FB1243C61980",
+  "verticalSpacing": 0
+}

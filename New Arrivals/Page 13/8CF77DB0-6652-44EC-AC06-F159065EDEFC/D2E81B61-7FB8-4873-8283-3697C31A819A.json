@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D2E81B61-7FB8-4873-8283-3697C31A819A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D40D016-24D2-4799-892B-ECE87B1D0561",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D96FCC23-E3BC-4614-82D3-653DE047B92F",
+    "height": 90,
+    "width": 149,
+    "x": 183,
+    "y": 356
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Taxon/main Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B607526-80EB-4793-8FE1-58D162B502F8",
+      "overrideName": "461961B4-4963-49F4-AA11-66A433E06625_stringValue",
+      "value": "Ancient Nutrition"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63D61400-7C43-48F2-BE28-69B5C14A147A",
+      "overrideName": "B00E45EE-76AE-4AF6-A105-539EE40EDA89_symbolID",
+      "value": "D4012153-AB4D-4537-9156-286D2880C209"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B09F78D-9C75-46B9-83F9-C9746A0258DF",
+      "overrideName": "02293753-076F-4E89-9446-6DFC98079285_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a46a93fe26500c90d25b387bb3c9d6a631bc03a9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CFB42B05-F49B-46F9-BA90-11EF689EF282",
+      "overrideName": "C997CC86-80CF-4753-94C3-74064B9D4C79_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2113c9d376e410debb1ad9a92a262ac309512798.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD6192F8-D4EF-4274-9B26-5ABE65A66779",
+      "overrideName": "AD9F6821-79F3-4738-8BC1-E2A5CE692C95_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7eefa0b85c9719e17388986b11ac637d24733f2f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "305D62FD-231A-456B-8471-EF7CD8F68FCF",
+      "overrideName": "B00E45EE-76AE-4AF6-A105-539EE40EDA89/78B8A6FC-F677-4081-8D50-D591FE7B7DB8_stringValue",
+      "value": "Ancient Nutr..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDAF5132-A6F7-4BAE-8B25-BAD0057CCA11",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "067A1BAC-2FF2-424C-859E-D92D6F967269",
+  "verticalSpacing": 0
+}

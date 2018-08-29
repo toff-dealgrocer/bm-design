@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "379F83CE-7B85-4E79-AFCE-CECBCF801688",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "112789C6-29F9-4E28-9E48-2E4F3BDB2CD6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A1E003F-162D-4259-8E14-6498B95A0F2C",
+    "height": 90,
+    "width": 149,
+    "x": 347,
+    "y": 402
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Taxon/main Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D499174-405B-47D4-A340-DC1F90AFBEE5",
+      "overrideName": "461961B4-4963-49F4-AA11-66A433E06625_stringValue",
+      "value": "RXBar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11EA506B-AD41-440B-BC34-4009E5560689",
+      "overrideName": "B00E45EE-76AE-4AF6-A105-539EE40EDA89_symbolID",
+      "value": "D4012153-AB4D-4537-9156-286D2880C209"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BD853A8-C90B-4DF2-AE73-C66B8742E8C5",
+      "overrideName": "02293753-076F-4E89-9446-6DFC98079285_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/22d804b59b87133ed553533ddb575ff5c3aba4cc.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "700B4FC5-BEF5-4171-A4BF-40E9BF37ED23",
+      "overrideName": "C997CC86-80CF-4753-94C3-74064B9D4C79_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f27b68916b6661103f91dc63652758fcdcdaa1da.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "638ACC0F-9A17-4543-AF43-5C4568E1470C",
+      "overrideName": "AD9F6821-79F3-4738-8BC1-E2A5CE692C95_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/44c128998f8b688e8919e3088d21d9eaa5de90b4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19FF52F0-3C63-4C04-B92F-D8ADE2FEBADE",
+      "overrideName": "B00E45EE-76AE-4AF6-A105-539EE40EDA89/78B8A6FC-F677-4081-8D50-D591FE7B7DB8_stringValue",
+      "value": "RXBar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA0292D2-1305-44C7-9DCF-FD44C649A9FD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "067A1BAC-2FF2-424C-859E-D92D6F967269",
+  "verticalSpacing": 0
+}

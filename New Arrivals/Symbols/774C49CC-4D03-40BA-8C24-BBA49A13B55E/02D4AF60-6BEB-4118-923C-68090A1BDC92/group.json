@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "02D4AF60-6BEB-4118-923C-68090A1BDC92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 431,
+    "width": 990,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "2648C8F9-6016-497B-B8A4-877661798CFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05D8636F-D880-4C74-973A-6A8295FB9B39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46241C42-270E-4FFB-B345-8D0711A10B7A"
+    },
+    {
+      "class": "group",
+      "id": "9E8533B0-5D55-45EF-B562-FF9C3B5A8204"
+    }
+  ],
+  "name": "Carousel/desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

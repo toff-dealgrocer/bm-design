@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "C83F6A80-D519-4DEF-984D-54FF3199EDB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A5BD56D-7F0B-4C1B-BD3F-7C30F44B7859",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00919EA8-3EB2-4673-B594-683E4FFE65E8",
+    "height": 61,
+    "width": 61,
+    "x": 14,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2760E8AF-DF79-49BA-9E55-41A58DDCD537"
+    },
+    {
+      "class": "group",
+      "id": "3E4678DC-EA66-433A-8478-66FBC9BC5B32"
+    },
+    {
+      "class": "text",
+      "id": "72DEFFBC-6459-4351-851D-D2AE93EA790E"
+    }
+  ],
+  "name": "Discount badge",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDB3C0C2-A749-4453-90A7-4E2D9B59FE6E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

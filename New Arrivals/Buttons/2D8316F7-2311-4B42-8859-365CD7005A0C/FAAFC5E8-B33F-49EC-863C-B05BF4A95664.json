@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FAAFC5E8-B33F-49EC-863C-B05BF4A95664",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0BD5D59C-ADCB-4CDC-8340-4D775FB7ECC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10EE2B55-9374-4932-ACBE-E69B9D6340E6",
+    "height": 37,
+    "width": 100,
+    "x": 152,
+    "y": 469
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/social",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2931152B-24C6-4BEF-B8C7-0E5FE09F028D",
+      "overrideName": "FEE9AD71-A3FB-4C67-B065-907CD2B477D2_stringValue",
+      "value": "Tweet"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "926BA73F-7AFF-4DAC-ABC1-3A5DBEAFB1D1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7A8D2E52-049B-4D57-9AA8-5E640D109522",
+  "verticalSpacing": 0
+}

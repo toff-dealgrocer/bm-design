@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F16A4F63-D538-4AB0-BC4F-DA63DB8AB008",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60DD6B91-A8E0-49BD-8700-75ABB4F40D44",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "596F7211-836A-4C2E-A83F-BB7A4425EA4E",
+    "height": 29,
+    "width": 158,
+    "x": 0,
+    "y": 129
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Misc/Product/more-tag",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C1C21ED-1F89-4B80-BFA4-B37A8DA112C3",
+      "overrideName": "01BE4A61-E011-4422-8206-16F15D284786_stringValue",
+      "value": "+ More Colors"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44DA61CE-1809-46C8-8966-AADFF4BDE7BA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A210F7E4-8B55-4A07-BCFD-1CCCA5A09B34",
+  "verticalSpacing": 0
+}

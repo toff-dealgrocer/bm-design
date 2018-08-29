@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4E79AD09-C014-4281-828E-DDF9EACC6EDE",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 257,
+  "do_objectID": "EAEE815B-4341-4658-AB82-A800A90E068D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDF8B7C7-54EE-43E1-8243-5EAE52A4C428",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFB00B52-AE1F-4F89-A47E-FDD926B3B91C",
+    "height": 29,
+    "width": 29,
+    "x": 17982,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4F4E9DD8-6248-4A12-AC9E-525F6E9636C4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "D286C509-B013-400A-81D6-0B1C352A549B"
+    }
+  ],
+  "name": "Assets/Icons/icon-social/pinterest",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D43CC717-C2F3-4D95-9400-37C4635DC0FD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "166857E5-E41E-490D-A6FF-8785F8D76B39",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "42084696-5161-41DC-A4BF-A0B34E86D8E0",
+    "guides": [
+    ]
+  }
+}
